@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KGA\\Desktop\\\uACBD\uC77C \uBA54\uD0C0\uBC84\uC2A4 \uAC1C\uBC1C\uC790 9\uAE30\\C# - DAY 7\\PracticeGame\\ConsoleGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1EFC4D3-5C6D-4AAC-B96C-27F18DC142BA}|PracticeGame.csproj|c:\\users\\kga\\desktop\\\uACBD\uC77C \uBA54\uD0C0\uBC84\uC2A4 \uAC1C\uBC1C\uC790 9\uAE30\\c# - day 7\\practicegame\\consolegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1EFC4D3-5C6D-4AAC-B96C-27F18DC142BA}|PracticeGame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\\uACBD\uC77C \uBA54\uD0C0\uBC84\uC2A4 \uAC1C\uBC1C\uC790 9\uAE30\\C# - DAY 7\\PracticeGame\\ConsoleGame\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\KGA\\Desktop\\\uACBD\uC77C \uBA54\uD0C0\uBC84\uC2A4 \uAC1C\uBC1C\uC790 9\uAE30\\C# - DAY 7\\PracticeGame\\ConsoleGame\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T05:38:17.492Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

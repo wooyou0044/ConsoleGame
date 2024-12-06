@@ -1,0 +1,7 @@
+C:\Users\KGA\Desktop\경일 메타버스 개발자 9기\C# - DAY 7\PracticeGame\ConsoleGame\bin\Debug\PracticeGame.exe.config
+C:\Users\KGA\Desktop\경일 메타버스 개발자 9기\C# - DAY 7\PracticeGame\ConsoleGame\bin\Debug\PracticeGame.exe
+C:\Users\KGA\Desktop\경일 메타버스 개발자 9기\C# - DAY 7\PracticeGame\ConsoleGame\bin\Debug\PracticeGame.pdb
+C:\Users\KGA\Desktop\경일 메타버스 개발자 9기\C# - DAY 7\PracticeGame\ConsoleGame\obj\Debug\PracticeGame.csproj.AssemblyReference.cache
+C:\Users\KGA\Desktop\경일 메타버스 개발자 9기\C# - DAY 7\PracticeGame\ConsoleGame\obj\Debug\PracticeGame.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Desktop\경일 메타버스 개발자 9기\C# - DAY 7\PracticeGame\ConsoleGame\obj\Debug\PracticeGame.exe
+C:\Users\KGA\Desktop\경일 메타버스 개발자 9기\C# - DAY 7\PracticeGame\ConsoleGame\obj\Debug\PracticeGame.pdb
