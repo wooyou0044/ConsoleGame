@@ -5,3 +5,10 @@ C:\Users\KGA\Desktop\경일 메타버스 개발자 9기\C# - DAY 7\PracticeGame\
 C:\Users\KGA\Desktop\경일 메타버스 개발자 9기\C# - DAY 7\PracticeGame\ConsoleGame\obj\Debug\PracticeGame.csproj.CoreCompileInputs.cache
 C:\Users\KGA\Desktop\경일 메타버스 개발자 9기\C# - DAY 7\PracticeGame\ConsoleGame\obj\Debug\PracticeGame.exe
 C:\Users\KGA\Desktop\경일 메타버스 개발자 9기\C# - DAY 7\PracticeGame\ConsoleGame\obj\Debug\PracticeGame.pdb
+C:\Users\chawo\OneDrive\바탕 화면\Project GitHub\ConsoleGame\bin\Debug\PracticeGame.exe.config
+C:\Users\chawo\OneDrive\바탕 화면\Project GitHub\ConsoleGame\bin\Debug\PracticeGame.exe
+C:\Users\chawo\OneDrive\바탕 화면\Project GitHub\ConsoleGame\bin\Debug\PracticeGame.pdb
+C:\Users\chawo\OneDrive\바탕 화면\Project GitHub\ConsoleGame\obj\Debug\PracticeGame.csprojAssemblyReference.cache
+C:\Users\chawo\OneDrive\바탕 화면\Project GitHub\ConsoleGame\obj\Debug\PracticeGame.csproj.CoreCompileInputs.cache
+C:\Users\chawo\OneDrive\바탕 화면\Project GitHub\ConsoleGame\obj\Debug\PracticeGame.exe
+C:\Users\chawo\OneDrive\바탕 화면\Project GitHub\ConsoleGame\obj\Debug\PracticeGame.pdb
